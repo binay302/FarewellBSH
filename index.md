@@ -15,7 +15,7 @@ Thank you for always your mentorship and cool attitude towards for you team memb
 
 ### Vinay
 
-###Ralf : Thank you for the amazing hospitality in Germany . you are an absolute Gentleman.
+### Ralf : Thank you for the amazing hospitality in Germany . you are an absolute Gentleman.
 
 ### Stefan 
 
