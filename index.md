@@ -19,7 +19,7 @@ Thank you for always your mentorship and cool attitude towards for you team memb
 Many thanks for the amazing hospitality in Germany.Thanks for those memories. 
 
 ### Stefan 
-Thanks for providing support right from the first day till today . You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock. Always approachable and open minded , humourful . Thanks for your your understanding and patience whenver i missed deadlines. 
+Thanks for providing support right from the first day till today . You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend. Always approachable and open minded , cool and comsposed . Thanks for your understanding and patience whenver i missed deadlines.  
 
 ### Monika
 
