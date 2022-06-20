@@ -4,7 +4,26 @@ As few of you might be knowing that today is my last day in BSH.
 I would like to thank each of you for making this journey beautiful & memorable for me . 
 
 ### Sundaram Sir 
-Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting
+Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting.
+
+### Matthias
+
+### Anish 
+
+### Vinay
+
+### Stefan 
+
+### Monika
+
+
+
+### Shiva 
+
+### 
+
+###
+
 
 
 You can use the [editor on GitHub](https://github.com/binay302/FarewellBSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
