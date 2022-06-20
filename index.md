@@ -16,9 +16,10 @@ Thank you for always your mentorship and cool attitude towards for you team memb
 ### Vinay
 
 ### Ralf : 
-Many thankks for the amazing hospitality in Germany.Thanks for those memories. 
+Many thanks for the amazing hospitality in Germany.Thanks for those memories. 
 
 ### Stefan 
+Thanks for providing support right from the first day till today . You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock. Always approachable and open minded , humourful . Thanks for your your understanding and patience whenver i missed deadlines. 
 
 ### Monika
 
