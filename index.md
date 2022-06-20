@@ -1,6 +1,7 @@
 ## 29th June 2022
 
-### Sundaram Sir : Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting
+### Sundaram Sir 
+Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting
 
 As few of you might be knowing that today is my last day in BSH.
 You can use the [editor on GitHub](https://github.com/binay302/FarewellBSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
