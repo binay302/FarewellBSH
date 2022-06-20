@@ -3,22 +3,22 @@
 As few of you might be knowing that today is my last day in B/S/H.
 I would like to thank each of you for making this journey beautiful & memorable for me . 
 
-### Sundaram Sir 
+### -Sundaram Sir 
 Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting.
 
-### Matthias
+### -Matthias
 Thank you for being supportive and helping out whenever it was necessary. i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way. 
 
 
-### Anish 
+### -Anish 
 Thank you for always your mentorship and cool attitude towards for you team members. 
 
-### Vinay
+### -Vinay
 
-### Ralf : 
+### -Ralf : 
 Many thanks for the amazing hospitality in Germany.Thanks for those memories. 
 
-### Stefan 
+### -Stefan 
 Thanks for providing support right from the first day till today . You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend. Always approachable and open minded , cool and comsposed . Thanks for your understanding and patience whenver i missed deadlines.  
 
 ### Monika
