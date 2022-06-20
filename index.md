@@ -7,7 +7,7 @@ I would like to thank each of you for making this journey beautiful & memorable 
 Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting.
 
 ### Matthias
-Thank you for being supportive and helping out whenever it was necessary . i remember in 2018/2010 when Bangalore team was specially new , you * Andrej were there to help technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way. 
+Thank you for being supportive and helping out whenever it was necessary . i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way. 
 
 
 ### Anish 
