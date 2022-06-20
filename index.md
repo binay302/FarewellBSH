@@ -1,4 +1,4 @@
-## Farewell BSH
+## 29th June 2022
 
 As few of you might be knowing that today is my last day in BSH.
 You can use the [editor on GitHub](https://github.com/binay302/FarewellBSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
