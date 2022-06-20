@@ -1,6 +1,6 @@
 ## 29th June 2022
 
-As few of you might be knowing that today is my last day in BSH.
+As few of you might be knowing that today is my last day in B/S/H.
 I would like to thank each of you for making this journey beautiful & memorable for me . 
 
 ### Sundaram Sir 
