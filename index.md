@@ -1,5 +1,6 @@
 ## Farewell BSH
 
+As few of you might be knowing that today is my last day in BSH.
 You can use the [editor on GitHub](https://github.com/binay302/FarewellBSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
