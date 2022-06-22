@@ -33,7 +33,7 @@ Thanks for your support . You are a great Asset to team and technically very str
 Many Thanks Anand for support and help & amazing non sense conversations over coffee & lunch breaks & during TT games :).   
 
 ### TT table Partners
-Many thanks TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh . Really Enjoyed the time.
+Many thanks to my TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh . Really Enjoyed the time.
 
 
 ### 
