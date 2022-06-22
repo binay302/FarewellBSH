@@ -1,35 +1,45 @@
 ## 29th June 2022
 
-As few of you might be knowing that today is my last day in B/S/H.
-I would like to thank each of you for making this journey beautiful & memorable for me . 
+As few ofyou might be knowing that today is my last day in B/S/H.I would like to thank each of you for making this journey beautiful & memorable for me .
 
-### -Sundaram Sir 
-Thank you for referring me in BSH . One of the Best company so far to work with.. it was really wonderful once again working together. Thank you for always be so supporting.
 
-### -Matthias
+
+### Sundaram Sir 
+Thank you for referring me in B/S/H. it is Best company so far i have work with. it was really wonderful once again working together. Thank you for always be so supportive and wonderfull conversations over lunch.
+
+### Matthias
 Thank you for being supportive and helping out whenever it was necessary. i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way,whirh made the rest of journey wonderful. 
 
+### Anish 
+Thank you for always your mentorship and cool attitude towards for you team members.you are always approachable. 
 
-### -Anish 
-Thank you for always your mentorship and cool attitude towards for you team members. 
+### Vinay
 
-### -Vinay
+### Andrej
 
-### -Ralf : 
-Many thanks for the amazing hospitality in Germany.Thanks for those memories. 
+### Ralf : 
+Many thanks for the amazing hospitality in Germany.Thank you for those wonderful memories. 
 
-### -Stefan 
-Thanks for providing support right from the first day till today . You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend. Always approachable and open minded , cool and comsposed . Thanks for your understanding and patience whenver i missed deadlines.  
+### Stefan 
+Thanks for providing support right from the first day till today. You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend for RE-FX topics. Always approachable and open minded, cool and comsposed. 
 
 ### Monika
+Thank you for all support and help. Always approchable and 
 
+### Shiva
+Thanks for your support . you are a great Asset to team and technically very strong. 
 
+### Anand
+Many Thanks Anand for support and help & amazing non sense conversations over coffee & lunch breaks & during TT games :).   
 
-### Shiva 
+### TT table Partners
+Many thanks TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh . Really Enjoyed the time.
+
 
 ### 
+Thank you to my Milestone team members((Walking Step Challenge) Pradeep, Suchith, Minesh, Manitkanta for great memories.
 
-###
+Thank you to Joshua & Pallavi to making the working environment joyful and amiable and less formal. 
 
 
 
