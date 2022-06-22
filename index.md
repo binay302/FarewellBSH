@@ -36,7 +36,7 @@ Many Thanks Anand for support and help & amazing non sense conversations over co
 Many thanks to my TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh . Really Enjoyed the time.
 
 
-### 
+### Milestone team members(Pradeep, Suchith, Minesh, Manitkanta)
 Thank you to my Milestone team members((Walking Step Challenge) Pradeep, Suchith, Minesh, Manitkanta for great memories.
 
 Thank you to Joshua & Pallavi to making the working environment joyful and amiable and less formal. 
