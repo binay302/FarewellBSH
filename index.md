@@ -8,7 +8,7 @@ As few ofyou might be knowing that today is my last day in B/S/H.I would like to
 Thank you for referring me in B/S/H. it is Best company so far i have work with. it was really wonderful once again working together. Thank you for always be so supportive and wonderfull conversations over lunch.
 
 ### Matthias
-Thank you for being supportive and helping out whenever it was necessary. i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way,whirh made the rest of journey wonderful. 
+Thank you for being supportive and helping out whenever it was necessary. i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way,which made the rest of journey wonderful. 
 
 ### Anish 
 Thank you for always your mentorship and cool attitude towards for you team members.you are always approachable. 
@@ -24,10 +24,10 @@ Many thanks for the amazing hospitality in Germany.Thank you for those wonderful
 Thanks for providing support right from the first day till today. You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend for RE-FX topics. Always approachable and open minded, cool and comsposed. 
 
 ### Monika
-Thank you for all support and help. Always approchable and 
+Thank you for all the support and help. Always approchable and helping me learn RE-FX module.
 
 ### Shiva
-Thanks for your support . you are a great Asset to team and technically very strong. 
+Thanks for your support . You are a great Asset to team and technically very strong. 
 
 ### Anand
 Many Thanks Anand for support and help & amazing non sense conversations over coffee & lunch breaks & during TT games :).   
