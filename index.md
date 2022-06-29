@@ -1,80 +1,72 @@
-## 29th June 2022
 
-As few ofyou might be knowing that today is my last day in B/S/H.I would like to thank each of you for making this journey beautiful & memorable for me .
+As few of you might be knowing that today is my last day in B/S/H.I would like to thank each of you for making this journey beautiful & memorable for me .
+Each one of you has somehow helped me to grow as a person professionally and personally as well. 
+Here are some special and specific points that comes to mind right now. 
+
+•	Sundaram Sir 
+Thank you for referring me in B/S/H. it is Best company so far I have work with. it was really wonderful once again working together. 
+Thank you for always be so supportive and wonderful conversations over lunch.
+
+•	Matthias
+Thank you for being supportive and helping out whenever it was necessary. 
+I remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way. 
+Thanks for that. it made the beginning of journey wonderful. 
+Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way, which made the rest of journey wonderful. 
+
+•	Anish 
+Thank you for always your mentorship and supportive attitude towards for you team members. You are always approachable. 
+
+•	Vinay
+       A Big thanks for everything including help on technical topic , non-technical topics and also for all the support from beginning to end.
+
+•	Controlling team: 
+Thank you  Suriya ,Andi, Thomas ,Shailesh, Soma & Karunakar for the support as a team.
+
+•	Andrej
+A big thanks for your support right from the beginning as SDM and till the rest of the journey and then as an amazing colleague. 
+You were always there to support in all possible ways specially even also you were later moved to another team. 
+
+•	Ralf Laier: 
+Many thanks for the amazing hospitality in Germany. Thank you so much for those wonderful memories. 
+
+•	Stefan Bloh
+Thanks for providing support right from the first day till today. You have always listened and supported in all ways. 
+You were the go to person for me whenever I faced a roadblock or a deadend for RE-FX topics. 
+You were always approachable and open minded, cool and composed. 
+
+•	Monika Beyer
+Thank you for all the support and help. Always approachable and helping me learn RE-FX module.
+I wish if only I could get the royalty of RE-FX migration program . 
+
+•	Shiva
+       Thanks for your support . You are a great Asset to team and technically very strong. 
+
+•	Akash & Pramod :
+Akash - Thank you for all the wonderful conversations , fun and amazing moments and super brainless talks over leisure times.
+Pramod -Thank you Pramod  for taking out time and helping me with learning the ABC of controlling and hopefully I can learn myself remaining alphabets of it  .
+
+•	Ekamber
+Thank you Ekamber for the support during entire time and also specially last few days . 
+
+•	Taher
+       Many thanks for your help , guidance and support during last few months. You were always open to listen & support to your team members .
+
+•	Anand
+       Many Thanks Anand for your support and help & amazing non sense conversations over coffee & lunch breaks & during TT games :).   
+
+•	TT table Partners
+       Many thanks to my TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh. Really Enjoyed the time and learnt TT along with the journey . 
+
+•	Milestone team members(Pradeep, Suchith, Minesh, Manikanta)
+       Thank you to my Milestone team members((Walking Step Challenge) Pradeep, Suchith, Minesh, Manikanta for great memories.
+
+•	Last but not least a Big Thank you to Joshua & Pallavi to making the working environment joyful , amiable and more humane.
+        
+       As I look forward , I will take a break due to some personal reason and then will embark on new beginning .
+       
+
+ Regards,
+ Binay
 
 
 
-### Sundaram Sir 
-Thank you for referring me in B/S/H. it is Best company so far i have work with. it was really wonderful once again working together. Thank you for always be so supportive and wonderfull conversations over lunch.
-
-### Matthias
-Thank you for being supportive and helping out whenever it was necessary. i remember in 2018/2010 when Bangalore team was specially new , you & Andrej were there to help new technical team in all every possible way.Thanks for that. it made the begining of journey wonderfull. Also thank you for being a PO who heard feedback, suggestions and then took actions to resolve it in every possible way,which made the rest of journey wonderful. 
-
-### Anish 
-Thank you for always your mentorship and cool attitude towards for you team members.you are always approachable. 
-
-### Vinay
-
-### Andrej
-
-### Ralf : 
-Many thanks for the amazing hospitality in Germany.Thank you for those wonderful memories. 
-
-### Stefan 
-Thanks for providing support right from the first day till today. You have always listened and supported in all ways.You were the go to person for me whenever i faced a roadblock or a deadend for RE-FX topics. Always approachable and open minded, cool and comsposed. 
-
-### Monika
-Thank you for all the support and help. Always approchable and helping me learn RE-FX module.
-
-### Shiva
-Thanks for your support . You are a great Asset to team and technically very strong. 
-
-### Anand
-Many Thanks Anand for support and help & amazing non sense conversations over coffee & lunch breaks & during TT games :).   
-
-### TT table Partners
-Many thanks to my TT table partners Anand,Taher,Akash,Meclin,Saravanan,Vinay,Anish,Pranav,Ashutosh. Really Enjoyed the time.
-
-
-### Milestone team members(Pradeep, Suchith, Minesh, Manitkanta)
-Thank you to my Milestone team members((Walking Step Challenge) Pradeep, Suchith, Minesh, Manitkanta for great memories.
-
-Thank you to Joshua & Pallavi to making the working environment joyful and amiable and less formal. 
-
-
-
-You can use the [editor on GitHub](https://github.com/binay302/FarewellBSH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binay302/FarewellBSH/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
